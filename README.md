@@ -1,6 +1,6 @@
 # Hi there, I'm Jasdeep Ahluwalia! 👋
 
-🚀 Full Stack Developer | 💻 Machine Learning Enthusiast | 🌐 Entrepreneur | 🌟 Open Source Contributor
+💻 Computer Science At the UMD - College Park | 🌟 Programming Enthusiast
 
 📍 New York, NY
 
