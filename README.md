@@ -1,4 +1,5 @@
-![Header](https://user-images.githubusercontent.com/65431368/235573366-ff64df14-d0cc-43c7-aa34-bf23480a860b.jpeg)
+![Header](https://user-images.githubusercontent.com/65431368/235573725-9e52ff8d-b8b6-458b-a72e-b215a8851693.png)
+
 
 Hi there, I'm Jasdeep Ahluwalia! 👋
 
