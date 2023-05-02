@@ -1,6 +1,3 @@
-![Header](https://user-images.githubusercontent.com/65431368/235573725-9e52ff8d-b8b6-458b-a72e-b215a8851693.png)
-
-
 Hi there, I'm Jasdeep Ahluwalia! 👋
 
 🚀 Full Stack Developer | 💻 Machine Learning Enthusiast | 🌐 Entrepreneur | 🌟 Open Source Contributor
