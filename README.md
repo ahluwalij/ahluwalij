@@ -1,4 +1,4 @@
-![Header](Hi there, I'm Jasdeep Ahluwalia! 👋)
+# Hi there, I'm Jasdeep Ahluwalia! 👋
 
 🚀 Full Stack Developer | 💻 Machine Learning Enthusiast | 🌐 Entrepreneur | 🌟 Open Source Contributor
 
