@@ -1,6 +1,6 @@
 # Hi there, I'm Jasdeep Ahluwalia! 👋
 
-💻 Computer Science At the UMD - College Park 
+💻 Computer Science At the UMD - College Park | 🌟 Programming Enthusiast
 
 📍 New York, NY
 
@@ -10,7 +10,7 @@
 
 I'm a Computer Science student at the University of Maryland, College Park, passionate about developing innovative solutions using cutting-edge technologies. I have experience in full-stack development, machine learning, and have worked on a variety of projects ranging from AI-driven applications to web services.
 
-When I'm not coding, you can find me exploring new tech trends, collaborating with fellow developers, or tinkering with the latest gadgets.
+When I'm not coding, you can find me working as a personal trainer, collaborating with fellow developers, or exploring new tech trends.
 
 ## Technologies & Tools
 
@@ -45,5 +45,3 @@ Feel free to reach out if you're interested in collaborating on a project, have 
 [![Linkedin Badge](https://img.shields.io/badge/-Jasdeep_Ahluwalia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasdeep-ahluwalia/)](https://www.linkedin.com/in/jasdeep-ahluwalia/)
 [![Twitter Badge](https://img.shields.io/badge/-JazaScript-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/JazaScript)](https://twitter.com/JazaScript)
 [![GitHub Badge](https://img.shields.io/badge/-ahluwalij-blue?style=flat&logo=GitHub&logoColor=white&link=https://github.com/ahluwalij)](https://github.com/ahluwalij)
-
-
