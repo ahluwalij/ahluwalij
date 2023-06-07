@@ -4,7 +4,7 @@
 
 📍 New York, NY
 
-🔗 [Linkedin](https://linkedin.com/in/jasdeep-ahluwalia) | 📨 [Email](mailto:jasdeep.a@outlook.com) | 🐦 [Twitter](https://twitter.com/JazaScript) | 💻 [GitHub](https://github.com/ahluwalij) | 🌐 [Personal Website](https://jasdeep-showcase.vercel.app/)
+🔗 [Linkedin](https://linkedin.com/in/jasdeep-ahluwalia) | 📨 [Email](mailto:jasdeep.a@outlook.com) | 🐦 [Twitter](https://twitter.com/JazaScript) | 💻 [GitHub](https://github.com/ahluwalij) | 🌐 [Personal Website](https://jasdeepahluwalia.com/)
 
 ## About Me
 
