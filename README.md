@@ -1,6 +1,6 @@
 # Hi there, I'm Jasdeep Ahluwalia! 👋
 
-💻 Computer Science At the UMD - College Park | 🌟 Programming Enthusiast
+💻 Computer Science & Statistics At The University Maryland - College Park | 🌟 Programming Enthusiast
 
 📍 New York, NY
 
