@@ -32,12 +32,6 @@ When I'm not coding, you can find me working as a personal trainer, collaboratin
 - [AlgoTrader](https://github.com/ahluwalij/AlgoTrader) - A stock and cryptocurrency trading tool that analyzes historical data and identifies profitable patterns.
 - [OCaml Regular Expression Engine](https://github.com/ahluwalij/RegEx-Engine) - A Regular Expression (RegEx) Engine using OCaml and Non-deterministic Finite Automaton (NFA) for efficient parsing and matching.
 
-## 📈 GitHub Stats
-
-![Jasdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahluwalij&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahluwalij&layout=compact&theme=radical)](https://github.com/ahluwalij/github-readme-stats)
-
 ## Let's Connect! 🌎
 
 Feel free to reach out if you're interested in collaborating on a project, have any questions, or just want to chat!
