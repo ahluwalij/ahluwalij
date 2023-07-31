@@ -28,7 +28,7 @@ When I'm not coding, you can find me working as a personal trainer, collaboratin
 ## Recent Projects
 
 - [PlatePlanner](https://plateplanner.org) - A personalized meal plan generator based on user preferences and schedule.
-- [Hash Automation](https://youtu.be/vRfGE2vPys) - An Ethereum & Solana bot that optimizes the minting process for users.
+- [Hash Automation](https://youtu.be/v_RfGE2vPys) - An Ethereum & Solana bot that optimizes the minting process for users.
 - [AlgoTrader](https://github.com/ahluwalij/AlgoTrader) - A stock and cryptocurrency trading tool that analyzes historical data and identifies profitable patterns.
 - [OCaml Regular Expression Engine](https://github.com/ahluwalij/RegEx-Engine) - A Regular Expression (RegEx) Engine using OCaml and Non-deterministic Finite Automaton (NFA) for efficient parsing and matching.
 
