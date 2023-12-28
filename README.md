@@ -16,8 +16,8 @@ When I'm not coding, you can find me working as a personal trainer, collaboratin
 
 - [PlatePlanner](https://plateplanner.org) - A personalized meal plan generator based on user preferences and schedule.
 - [Hash Automation](https://youtu.be/v_RfGE2vPys) - An Ethereum & Solana bot that optimizes the minting process for users.
+- [Nviz](https://ahluwalij.github.io/NViz/) - An online visualization platform for both the structure and training of multilayer perceptron (MLP) feed-forward neural networks built with Next.js, React, and WebAssembly.
 - [AlgoTrader](https://github.com/ahluwalij/AlgoTrader) - A stock and cryptocurrency trading tool that analyzes historical data and identifies profitable patterns.
-- [Nviz](https://github.com/ahluwalij/NViz) - An online visualization platform for both the structure and training of multilayer perceptron (MLP) feed-forward neural networks built with Next.js, React, and WebAssembly.
 - [OCaml Regular Expression Engine](https://github.com/ahluwalij/RegEx-Engine) - A Regular Expression (RegEx) Engine using OCaml and Non-deterministic Finite Automaton (NFA) for efficient parsing and matching.
 
 ## Let's Connect! 🌎
