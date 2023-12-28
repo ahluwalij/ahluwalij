@@ -4,7 +4,7 @@
 
 📍 New York, NY
 
-🔗 [Linkedin](https://linkedin.com/in/jasdeep-ahluwalia) | 📨 [Email](mailto:jasdeep.a@outlook.com) | 🐦 [Twitter](https://twitter.com/JazaScript) | 💻 [GitHub](https://github.com/ahluwalij) | 🌐 [Personal Website](https://jasdeepahluwalia.com/)
+🔗 [Linkedin](https://linkedin.com/in/jasdeep-ahluwalia) | 📨 [Email](mailto:jasdeep.a@outlook.com) | 🐦 [Twitter(X)](https://twitter.com/JazaScript) | 💻 [GitHub](https://github.com/ahluwalij) | 🌐 [Personal Website](https://jasdeepahluwalia.com/)
 
 ## About Me
 
@@ -12,24 +12,12 @@ I'm a Computer Science student at the University of Maryland, College Park, pass
 
 When I'm not coding, you can find me working as a personal trainer, collaborating with fellow developers, or exploring new tech trends.
 
-## Technologies & Tools
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
-
 ## Recent Projects
 
 - [PlatePlanner](https://plateplanner.org) - A personalized meal plan generator based on user preferences and schedule.
 - [Hash Automation](https://youtu.be/v_RfGE2vPys) - An Ethereum & Solana bot that optimizes the minting process for users.
 - [AlgoTrader](https://github.com/ahluwalij/AlgoTrader) - A stock and cryptocurrency trading tool that analyzes historical data and identifies profitable patterns.
+- [Nviz](https://github.com/ahluwalij/NViz) - An online visualization platform for both the structure and training of multilayer perceptron (MLP) feed-forward neural networks built with Next.js, React, and WebAssembly.
 - [OCaml Regular Expression Engine](https://github.com/ahluwalij/RegEx-Engine) - A Regular Expression (RegEx) Engine using OCaml and Non-deterministic Finite Automaton (NFA) for efficient parsing and matching.
 
 ## Let's Connect! 🌎
