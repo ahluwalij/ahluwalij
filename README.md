@@ -7,6 +7,7 @@ I'm currently studying Computer Science & Statistics At The University Maryland 
 - Previously helped build [DeGods](https://degods.com/) (Go follow!), and created [ShipmentMakerPro](https://shipmentmakerpro.com/) at SellerChain, in New York City
 - Certified Personal Trainer
 - Currently optimizing websocket connections and decreasing packet-loss at AWS in Seattle, WA
+- _Golang or go home_
 
 ##
 
