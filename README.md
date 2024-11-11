@@ -9,6 +9,4 @@ I'm currently studying Computer Science & Statistics At The University Maryland 
 
 ##
 
-Feel free to reach out if you're interested in collaborating on a project, have any questions, or just want to chat!
-
 🔗 [Linkedin](https://linkedin.com/in/jasdeep-ahluwalia) | 📨 [Email](mailto:jasdeep.a@outlook.com) | 🐦 [Twitter(X)](https://twitter.com/JazaScript) | 🌐 [Personal Website](https://jasdeepahluwalia.com/)
