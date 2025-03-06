@@ -6,6 +6,7 @@ I'm currently studying Computer Science & Statistics At The University Maryland 
 - Founder of [Proxyfarm](https://proxy-farm.com/)
 - Certified Personal Trainer
 - Optimized websocket connections and decreased packet-loss at AWS in Seattle, WA
+- Researched Vectorized DB implementations at Palantir 
 
 ##
 
