@@ -1,12 +1,9 @@
 # Hi there, I'm Jasdeep! 👋
 
-I'm currently studying Computer Science & Statistics At The University Maryland - College Park. Originally from New York, NY.
-
-- Passionate about software
-- Founder of [Proxyfarm](https://proxy-farm.com/)
+- Founder of [Acre Communications](https://proxy-farm.com/), now part of [Star Proxies](https://starproxies.com/)
 - Certified Personal Trainer
 - Optimized websocket connections and decreased packet-loss at AWS in Seattle, WA
-- Researched Vectorized DB implementations at Palantir 
+- Researched Vector DB implementations at Palantir 
 
 ##
 
