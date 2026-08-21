@@ -1,5 +1,3 @@
-# Hi there, I'm Jasdeep! 👋
-
 - Founder of [Acre Communications](https://proxy-farm.com/), now part of [Star Proxies](https://starproxies.com/)
 - Certified Personal Trainer
 - Optimized websocket connections and decreased packet-loss at AWS in Seattle, WA
